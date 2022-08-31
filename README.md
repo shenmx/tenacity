@@ -1,1 +1,1 @@
-smx_optswitch_1
+smx_optswitch_2
